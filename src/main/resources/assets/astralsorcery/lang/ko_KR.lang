@@ -15,17 +15,17 @@ astralsorcery.config.title.overview=별의 마법 환경설정
 config.astralsorcery.category.astralsorcery=별의 마법
 config.astralsorcery.category.astralsorcery.tooltip=일반 환경설정
 config.astralsorcery.category.amulet_enchantments=부적 인첸트
-config.astralsorcery.category.amulet_enchantments.tooltip=반복 프리즘의 인첸트를 설정합니다.
+config.astralsorcery.category.amulet_enchantments.tooltip=반복 프리즘의 인첸트를 정의합니다.
 config.astralsorcery.category.aevitas_ore_perk=광석 스폰: 애비타스 광석 특전
-config.astralsorcery.category.aevitas_ore_perk.tooltip=특전을 스폰시킬 수 있는 광석사전의 광석을 설정합니다.
+config.astralsorcery.category.aevitas_ore_perk.tooltip=특전을 스폰시킬 수 있는 광석사전의 광석을 정의합니다.
 config.astralsorcery.category.mineralis_ritual=광석 스폰: 미네랄리스 의식
-config.astralsorcery.category.mineralis_ritual.tooltip=의식을 스폰시킬 수 있는 광석사전의 광석을 설정합니다.
+config.astralsorcery.category.mineralis_ritual.tooltip=의식을 스폰시킬 수 있는 광석사전의 광석을 정의합니다.
 config.astralsorcery.category.treasure_shrine=광석 스폰: 보물 사당
-config.astralsorcery.category.treasure_shrine.tooltip=보물 사당을 스폰시킬 수 있는 광석사전의 광석을 설정합니다.
-config.astralsorcery.category.fluid_rarities=액체: Neromantic Prime
-config.astralsorcery.category.fluid_rarities.tooltip=Defines the fluids the prime can find.
-config.astralsorcery.category.herdable_animals_blacklist=Blacklist: Herdable Animals
-config.astralsorcery.category.herdable_animals_blacklist.tooltip=Defines which animals the bootes ritual can't interact with.
+config.astralsorcery.category.treasure_shrine.tooltip=보물 사당을 스폰시킬 수 있는 광석사전의 광석을 정의합니다.
+config.astralsorcery.category.fluid_rarities=액체: 네로맨틱 프라임
+config.astralsorcery.category.fluid_rarities.tooltip=프라임에서 찾을 수 있는 액체를 정의합니다.
+config.astralsorcery.category.herdable_animals_blacklist=블랙리스트: 식용 동물
+config.astralsorcery.category.herdable_animals_blacklist.tooltip=부츠 의식이 상호작용할 수 없는 동물을 정의합니다.
 
 potion.potency.1=II
 potion.potency.2=III
@@ -36,134 +36,134 @@ potion.potency.6=VII
 potion.potency.7=VIII
 potion.potency.8=IX
 potion.potency.9=X
-potion.as.crafted.name=Stardew
+potion.as.crafted.name=스타듀
 
-misc.moreInformation=<Hold SHIFT for more details>
-misc.craftInformation=§7Click to see recipe
-misc.grindstone.double=Chance to double output: %s
-misc.knowledge.missing=An empty and sparkly scroll
-misc.knowledge.inscribed=Contains knowledge from %s
-misc.knowledge.inscribed.creative=Contains massive knowledge
-misc.journal.info.1=Hover over one of the clusters and zoom in
-misc.journal.info.2=using the scroll wheel or %s and %s
-misc.link.stop=Stopped linking!
-misc.link.start=Selected %s!
-misc.link.link=Linked %s to %s!
-misc.link.link.block=a block
-misc.link.unlink=Unlinked %s from %s!
-misc.link.unlink.all=Unlinked all links!
+misc.moreInformation=<자세한 내용을 보려면 Shift키를 누르세요.>
+misc.craftInformation=§7조합법 보기
+misc.grindstone.double=중복 출력 기회: %s
+misc.knowledge.missing=비어있고 반짝거리는 스크롤
+misc.knowledge.inscribed=%s의 지식을 포함합니다.
+misc.knowledge.inscribed.creative=방대한 지식을 포함합니다.
+misc.journal.info.1=클러스터 중 하나에 마우스를 올려 놓고 
+misc.journal.info.2=스크롤 휠 또는 %s 및 %s을(를) 사용하여 확대합니다.
+misc.link.stop=연결이 중지되었습니다!
+misc.link.start=%s이 선택되었습니다!
+misc.link.link=%s을(를) %s에 연결했습니다!
+misc.link.link.block=블록
+misc.link.unlink=%s에서 %s 연결이 해제되었습니다!
+misc.link.unlink.all=모든 연결이 해제되었습니다!
 
-misc.sword.sharpened=Sharpened (%s increased Damage)
-misc.chaos.resistance=+%s Chaos Resistance
-misc.chaos.resistance.max=Chaos Immunity
+misc.sword.sharpened=선명함(%s의 피해 증가)
+misc.chaos.resistance=+%s 혼돈 저항
+misc.chaos.resistance.max=혼돈 면역
 
-effect.as.cheatdeath=Phoenix-Fire
-effect.as.bleed=Bleeding
-effect.as.dropmod=Inner Wealth
+effect.as.cheatdeath=피닉스 파이어
+effect.as.bleed=출혈
+effect.as.dropmod=내부 재산
 
-amulet.enchantment.level.one=level
-amulet.enchantment.level.more=levels
+amulet.enchantment.level.one=레벨
+amulet.enchantment.level.more=레벨
 
-amulet.enchantment.add_to_specific.name=+%s %s to %s
-amulet.enchantment.add_to_existing_specific.name=+%s %s to existing %s
-amulet.enchantment.add_to_existing_all.name=+%s %s to all existing Enchantments
+amulet.enchantment.add_to_specific.name=+%s %s에서 %s까지
+amulet.enchantment.add_to_existing_specific.name=+%s %s을(를) 기존 %s에 연결
+amulet.enchantment.add_to_existing_all.name=+%s 모든 기존 인첸트에 대한 %s
 
-enchantment.astralsorcery.enchantment.as.nightvision.desc=Grants the wearer night vision.
-enchantment.astralsorcery.enchantment.as.smelting.desc=Blocks mined with tools with this enchantment will cause the drops to be as if they were smelted. ("Auto-Smelt")
+enchantment.astralsorcery.enchantment.as.nightvision.desc=착용자에게 야간 투시를 부여합니다.
+enchantment.astralsorcery.enchantment.as.smelting.desc=이 마법으로 도구로 블록을 파내면 방울이 마치 얼룩진 것처럼 얼룩지게 됩니다. ("자동 제련")
 
-gui.journal.bm.knowledge.name=Knowledge
-gui.journal.bm.constellations.name=Constellations
-gui.journal.bm.perks.name=Perks
-gui.journal.c.unmapped=Unknown
+gui.journal.bm.knowledge.name=지식
+gui.journal.bm.constellations.name=별자리
+gui.journal.bm.perks.name=특전
+gui.journal.c.unmapped=불명
 
-death.attack.as.stellar=%1$s disintegrated into Stardust
-death.attack.as.bleed=%1$s bled to death
+death.attack.as.stellar=%1$s이(가) 우주진으로 분해되었습니다.
+death.attack.as.bleed=%1$s이(가) 출혈로 인해 사망했습니다.
 
-enchantment.as.nightvision=Night Vision
-enchantment.as.smelting=Scorching Heat
+enchantment.as.nightvision=야간 투시
+enchantment.as.smelting=맹렬한 열기
 
-achievementpage.astralsorcery.name=Astral Sorcery
-achievement.astralsorcery.minerockcrystal=Such pure crystals
-achievement.astralsorcery.minerockcrystal.desc=Mine Rock Crystals
-achievement.astralsorcery.celestialcrystal=Celestial purity
-achievement.astralsorcery.celestialcrystal.desc=Acquire Celestial Crystals
-achievement.astralsorcery.buildtelescope.1=A clear view of the sky
-achievement.astralsorcery.buildtelescope.1.desc=Make a Looking Glass
-achievement.astralsorcery.seeconstellation=What a beautiful pattern
-achievement.astralsorcery.seeconstellation.desc=Discover a Constellation
-achievement.astralsorcery.buildtelescope.2=Looking further
-achievement.astralsorcery.buildtelescope.2.desc=Build an actual telescope
-achievement.astralsorcery.liquidstarlight=Liquefied Light
-achievement.astralsorcery.liquidstarlight.desc=Obtain Liquid Starlight
-achievement.astralsorcery.playerattunement=Alignment with the stars
-achievement.astralsorcery.playerattunement.desc=Attune yourself with a Constellation
+achievementpage.astralsorcery.name=별의 마법
+achievement.astralsorcery.minerockcrystal=순수한 수정
+achievement.astralsorcery.minerockcrystal.desc=수정 채굴
+achievement.astralsorcery.celestialcrystal=천상의 순도
+achievement.astralsorcery.celestialcrystal.desc=천체 수정 획득
+achievement.astralsorcery.buildtelescope.1=맑은 하늘
+achievement.astralsorcery.buildtelescope.1.desc=거울 제작
+achievement.astralsorcery.seeconstellation=얼마나 아름다운 무늬인가
+achievement.astralsorcery.seeconstellation.desc=별자리 발견
+achievement.astralsorcery.buildtelescope.2=더 멀리
+achievement.astralsorcery.buildtelescope.2.desc=실제 망원경 제작
+achievement.astralsorcery.liquidstarlight=액상화등
+achievement.astralsorcery.liquidstarlight.desc=액체 별빛 획득
+achievement.astralsorcery.playerattunement=별과 맞춤
+achievement.astralsorcery.playerattunement.desc=별자리로 직접 작업 수행
 
-progress.missing.knowledge=Something seems to be here, but you can’t tell what it is yet...
-progress.gain.progress.chat=Your vision expands.
-progress.gain.research.chat=You learned more about '%s'.
-progress.discover.constellation.chat=Discovered Constellation %s!
-progress.seen.constellation.chat=You memorize a drawing of %s!
-progress.seen.constellation.first.chat=You add a tab to the Astral Tome to keep track of it.
-progress.remove.attunement=Your light fades...
-progress.switch.attunement=The light subtly shifts...
+progress.missing.knowledge=뭔가 있는 것 같은데 아직 뭐가 있는지...
+progress.gain.progress.chat=시야가 확장됩니다.
+progress.gain.research.chat=%s에 대해 더 배웠습니다.
+progress.discover.constellation.chat=%s 별자리를 발견했습니다!
+progress.seen.constellation.chat=%s 그림을 암기하는군요!
+progress.seen.constellation.first.chat=기록하기 위해 별의 책에 탭을 추가합니다.
+progress.remove.attunement=네 빛이 희미해져
+progress.switch.attunement=불빛이 약간 변하다...
 
-astralsorcery.journal.cluster.discovery.name=Discovery
-astralsorcery.journal.cluster.basic_craft.name=Exploration
-astralsorcery.journal.cluster.attunement.name=Attunement
-astralsorcery.journal.cluster.constellation.name=Constellation
-astralsorcery.journal.cluster.radiance.name=Radiance
+astralsorcery.journal.cluster.discovery.name=발견
+astralsorcery.journal.cluster.basic_craft.name=탐험
+astralsorcery.journal.cluster.attunement.name=애착
+astralsorcery.journal.cluster.constellation.name=별자리
+astralsorcery.journal.cluster.radiance.name=빛
 
-astralsorcery.journal.constellation.dst.major=Bright
-astralsorcery.journal.constellation.dst.weak=Dim
-astralsorcery.journal.constellation.dst.minor=Faint
+astralsorcery.journal.constellation.dst.major=강광도
+astralsorcery.journal.constellation.dst.weak=암도
+astralsorcery.journal.constellation.dst.minor=약광도
 
-research.SHRINES.name=Ancient Shrines
-astralsorcery.journal.SHRINES.1.text=Scattered across the world are ancient shrines, built from marble by a civilization long past. Some of the most impressive shrines, featuring elaborate structures, have been located atop high hills and mountains, while smaller ones have been dug up from under the sands in deserts.<NL>While they don't seem to be very special at first, it's told that many of them harbor old and sacred treasures. Unlike the legends, however, only a few old chests and stories of strange floating crystals have ever been found.
+research.SHRINES.name=고대 성지
+astralsorcery.journal.SHRINES.1.text=전세계에 흩어진 고대 신전은 오랜 옛날 문명에 의해 대리석으로 만들어졌습니다. 가장 인상적인 사당들 중 일부는 정교한 구조를 갖추고 있으며 높은 언덕과 산꼭대기에 위치해 있으며, 작은 사당은 사막의 모래 밑에서 파내려왔습니다.<NL>처음에는 별로 특별한 것 같지 않지만, 그들 중 많은 사람들이 오래되고 신성한 보물을 가지고 있다고 합니다. 하지만, 전설과 달리, 단지 몇 개의 오래된 상자과 이상한 떠다니는 수정들에 대한 이야기만이 발견된 적이 있습니다.
 
-astralsorcery.journal.SHRINES.2.text=The the floating crystals are quite bizarre. They appear to emit a constant shimmering Starlight that flickers in an eerie and enchanting way.<NL>There is little doubt that these crystals are artificial. Their true age and origin is practically impossible to determine, but after some observation the crystal energies seem to be fixed in their alignment with the stars.
+astralsorcery.journal.SHRINES.2.text=떠다니는 수정들은 꽤 이상합니다. 그들은 으스스하고 매혹적인 방법으로 깜박이는 빛나는 별빛을 계속 발산하는 것처럼 보입니다.<NL>이 수정들이 인공적이라는 것에는 의심의 여지가 없습니다. 그들의 진짜 나이와 기원은 결정하기가 사실상 불가능하지만, 몇 가지 관찰 후에 결정 에너지는 별들과 일직선으로 맞춰지는 것처럼 보입니다.
 
-astralsorcery.journal.SHRINES.3.text=Not even the tiniest sliver can be chipped from the crystals in these shrines, even with the most destructive methods.<NL>The behavior of these crystals also seems strange. The light they emit appears to ebb and flow, almost like water, in response to certain objects being nearby. §3Maybe placing a crafting §3table close by would yield §3something interesting?§r
+astralsorcery.journal.SHRINES.3.text=아무리 작은 조각이라도 이 신전의 결정체에서 잘라낼 수 없습니다. 심지어 가장 파괴적인 방법으로도.<NL>이 수정들의 행동 역시 이상하게 보입니다. 그들이 방출하는 빛은 근처에 있는 특정 아이템에 반응하여 거의 물처럼 빛나고 흐르게 됩니다. §3아마도 가까운 곳에 §3조합대를 두면 §3뭔가 흥미로운 결과가 나올까요?§r
 
-research.CPAPER.name=Constellation Paper
-astralsorcery.journal.CPAPER.1.text=Inside chests found in the scattered shrines across the land, explorers occasionally find blank scrolls. Removing one of these scrolls from the chest causes a name to appear across the top, along with a strange drawing that resembles some of the stars seen in the night sky.<NL>After collecting a number of them, it appears that each scroll shows a different set of stars, but eventually they begin staying blank.
+research.CPAPER.name=별자리 종이
+astralsorcery.journal.CPAPER.1.text=육지에 흩어져 있는 사원에서 발견된 상자 안에서 탐험가들은 종종 빈 두루마리를 찾습니다. 이 두루마리들 중 하나를 상자에서 제거하면 이름이 맨 위에 나타나며 밤하늘에 보이는 별들과 비슷한 이상한 그림이 그려집니다.<NL>여러 개의 별들을 수집한 후에, 각각의 두루마리는 다른 별들의 집합을 보여주지만, 결국 그것들은 비워지기 시작합니다.
 
-astralsorcery.journal.CPAPER.3.text=On further inspection, it seems as though they are written and enchanted in such a way that they do not show charts that are already mapped, or in the reader's inventory. It would likely be prudent to leave the blank papers for other passing scholars, as there isn’t any other use you can find for them right now. <NL>Papers can be filed between the last few pages of the Astral Tome for easy access and organization. The filed papers can be retrieved by holding shift while opening the Astral Tome.
+astralsorcery.journal.CPAPER.3.text=더 자세히 살펴보면, 이미 매핑된 차트나 독자의 인벤토리에 차트를 표시하지 않는 방식으로 기록되고 인첸트된 것처럼 보입니다. 여러분이 지금 그들을 위해 찾을 수 있는 다른 어떠한 쓸모도 없기 때문에, 다른 지나가는 학자들을 위해 백서를 두는 것은 신중한 일일 것입니다. <NL>서류는 쉽게 접근하고 정리하기 위해 별의 책의 마지막 몇 페이지 사이에 철할 수 있습니다. 제출된 서류는 별의 책을 여는 동안 교대조를 유지함으로써 찾을 수 있습니다.
 
-research.WAND.name=Resonating Wand
-astralsorcery.journal.WAND.1.text=When using a crafting table near one of the strange crystals in the ancient ruins, the crystal focuses a single ray of Starlight onto the table. The light is dim, yet it seems to have an effect on the malleability and density of certain materials on the crafting table.<NL>This unlocks various crafting recipes that are not normally possible. The simplest of which is a basic wand that is capable of interacting with various types of Starlight sensitive devices.
+research.WAND.name=공명 지팡이
+astralsorcery.journal.WAND.1.text=고대 폐허의 이상한 수정들 중 한 곳 근처의 조합대를 사용할 때, 수정은 조합대 위에 하나의 별빛 광선을 집중시킵니다. 불빛은 어둡지만, 그것은 조합대에 있는 특정 물질의 탄성과 밀도에 영향을 미치는 것 같습니다.<NL>이것은 일반적으로 가능하지 않은 다양한 조합 방법을 열어줍니다. 그 중 가장 간단한 것은 다양한 종류의 별빛 감지기와 상호작용할 수 있는 기본 지팡이입니다.
 
-astralsorcery.journal.WAND.3.text=The Resonating Wand also has some other curious properties. When it is held in either hand at night, it vibrates and emits energetic sparks of white light that gather in seemingly random locations around the surface of the land. Nothing seems out of place or special on the surface though... §3Maybe there's §3something deep underground?§r
+astralsorcery.journal.WAND.3.text=공명 지팡이는 또한 몇가지 다른 이상한 특성들을 가지고 있습니다. 밤에 양 손에 쥐었을 때, 그것은 땅의 표면 주위의 겉보기 무작위로 보이는 곳에 모여드는, 백색 빛의 강력한 불꽃을 진동하고 발산합니다. 표면상으로는 그 무엇도 어울리지 않거나 특별한 것 같지 않습니다...  §3지하 깊숙이 §3뭔가 있을 수 있을까요?§r
 
-research.ORES.name=Ores
-astralsorcery.journal.ORES.1.text=§7§nRock Crystal Ore:§r In the deepest reaches of the world, the intense heat and pressure form incredibly rare and fragile crystals. These crystals each have their own unique properties, and they seem to take in Starlight with unusual ease. Mechanical hands are far too clumsy to properly harvest these fragile crystals from their exceptionally hard rock prisons, and even collecting them by hand requires tools capable of mining some of the hardest materials to not shatter the crystals inside through excessive impacts.
+research.ORES.name=광석
+astralsorcery.journal.ORES.1.text=§7§n수정 광석:§r 세계의 가장 깊은 곳에서, 강한 열과 압력은 믿을 수 없을 만큼 희귀하고 깨지기 쉬운 수정을 형성합니다. 이 수정들은 각각 독특한 특성을 가지고 있고, 별빛을 쉽게 흡수하는 것 같습니다. 기계적인 손은 예외적으로 단단한 바위 감옥으로부터 이러한 깨지기 쉬운 수정들을 적절히 채굴하기에는 너무 서툴고, 심지어 손으로 수집하는 것은 과도한 충격으로 수정을 깨지 않기 위해 가장 단단한 물질들 중 일부를 채굴할 수 있는 도구를 필요로 합니다.
 
-astralsorcery.journal.ORES.2.text=Detecting these ores while underground seems to be a vain effort as they spawn in singular veins far and few in-between. The crystals have been noted to attract Starlight, despite being near bedrock. Maybe there is a tool that resonates with Starlight light to help prospect for ores?<NL>§1§nAquamarine Shale:§r Shaped by the continuous flow of water and Starlight over fragmented Rock Crystal, these small and fragile gems form in the sands of riverbeds and beaches. Usually they can be found close to the surface buried in patches of sand.
+astralsorcery.journal.ORES.2.text=지하에서 이 광석을 발견하는 것은 그것들이 먼 곳과 적은 사이사이에 생성되기 때문에 헛수고인 것처럼 보입니다. 이 수정들은 기반암 근처에 있음에도 불구하고 별빛을 끌어당기는 것으로 알려져 있습니다. 혹시 광석 전망에 도움이 되도록 별빛 조명을 비추는 도구가 있을 수 있을까요?<NL>§1§n아쿠아마린 조각:§r 물이 계속 흐르고 돌 수정이 파편화된 바위 위에 별빛이 비치는 이 작고 연약한 보석들은 강바닥과 해변의 모래에서 형성됩니다. 보통 모래 무더기에 묻힌 표면 가까이에서 발견됩니다.
 
-research.ALTAR1.name=Luminous Crafting Table
-astralsorcery.journal.ALTAR1.1.text=Using a regular crafting table to interact with the Starlight emitted by the shrine crystal, which you have named "Collector Crystals" due to how they gather Starlight, seems to be inefficient. The table is only able to contain a small amount of Starlight from the crystal. Not only that, but the table must be very nearby the crystal or the collected Starlight rapidly bleeds out from it due to wood being inefficient for this purpose.
-astralsorcery.journal.ALTAR1.2.text=The Luminous Crafting Table solves both issues perfectly by being made of the purest marble. It is able to absorb and retain a much larger amount of Starlight than the crafting table. Also, it does not require a connection to a Collector Crystal to collect Starlight at all, as it has its own receptacle built within.
+research.ALTAR1.name=야광 조합대
+astralsorcery.journal.ALTAR1.1.text=일반적인 조합대를 사용하여 사당 수정에서 방출된 별빛과 상호 작용합니다. 별빛을 모으는 방법 때문에 "수집용 수정"이라고 이름 붙였습니다. 조합대는 수정의 별빛을 조금만 담을 수 있습니다. 뿐만 아니라 조합대는 수정이나 수집된 별빛 근처에 있어야 하는데, 이런 목적으로는 나무가 비효율적이기 때문에 수정이나 별빛이 빠르게 벗겨집니다.
+astralsorcery.journal.ALTAR1.2.text=야광 조합대는 가장 순수한 대리석으로 만들어짐으로써 두 가지 문제를 완벽하게 해결합니다. 그것은 조합대보다 훨씬 많은 양의 별빛을 흡수하고 보관할 수 있습니다. 또한 별빛를 수집하기 위해 수집용 수정에 연결할 필요도 없습니다. 별빛를 수집하기 위한 소켓이 내부에 내장되어 있기 때문입니다.
 
-astralsorcery.journal.ALTAR1.4.text=The Luminous Crafting Table is not without its drawbacks, though. First, it needs to be placed somewhere above the ground with an unobstructed view of the sky in order to collect Starlight. Its collection process also seems to be temperamental, even with the clearest of skies.<NL>Placing the table higher in the sky allows it to collect more Starlight, with the atmospheric interference of Starlight seeming to disappear entirely at around twice the height of sea level. It also collects considerably more Starlight during the nighttime. The table's current Starlight reservoir is visible beneath its crafting grid.
-astralsorcery.journal.ALTAR1.5.text=In order to craft with the Luminous Crafting Table, the table must be right clicked with a Resonating Wand after the items for the recipe are placed in it. When the item is done crafting, the item will be ejected out of the table.<NL>The amount of Starlight collected by the table varies heavily from position to position within the world, ranging from almost no Starlight at all, to filling or even exceeding the reservoir.
+astralsorcery.journal.ALTAR1.4.text=하지만, 야광 조합대는 단점이 없는 것은 아닙니다. 첫째, 그것은 별빛을 모으기 위해 하늘을 탁 트인 채 땅 위 어딘가에 놓아야 합니다. 그것의 수집 과정은 심지어 가장 맑은 하늘에서도 변덕스러운 것처럼 보입니다.<NL>조합대를 하늘에 높게 두면 별빛을 더 많이 모을 수 있고, 별빛의 대기 방해는 해수면 높이의 약 두 배 정도에서 완전히 사라지는 것처럼 보입니다. 그것은 또한 밤 동안 훨씬 더 많은 별빛을 모읍니다. 조합대의 현재 별빛 탱크는 조합대 아래에서 볼 수 있습니다.
+astralsorcery.journal.ALTAR1.5.text=야광 조합대를 사용하려면 공명 지팡이를 사용하여 표를 우클릭해야 합니다. 아이템 제작이 완료되면 아이템이 조합대에서 제거됩니다.<NL>조합대에 의해 수집된 별빛의 양은 거의 별빛이 없는 것에서부터 탱크를 채우는 것 또는 심지어 초과하는 것까지 매우 다양합니다.
 
-research.HAND_TELESCOPE.name=Looking Glass
-astralsorcery.journal.HAND_TELESCOPE.1.text=Despite the night sky constantly shifting all the time, certain recurring patterns and shapes appear on a regular basis. Many of these shapes bear a close resemblance to the patterns on the Constellation Papers found in ruined shrines.<NL> While no one is yet sure of their importance, the shapes of such Constellations were important enough for observers of old to carefully mark them in great detail. It might be prudent for a scholar to also mark and familiarize themselves with these patterns in the sky.
+research.HAND_TELESCOPE.name=거울
+astralsorcery.journal.HAND_TELESCOPE.1.text=밤하늘이 계속해서 바뀌고 있음에도 불구하고, 특정한 반복되는 패턴과 모양은 정기적으로 나타납니다. 이러한 많은 모양들은 부서진 새장에서 발견되는 별자리 종이의 패턴과 매우 유사합니다.<NL> 아직 아무도 중요성을 확신할 수 없지만, 별자리의 모양은 관찰자들이 주의 깊게 그것들을 자세히 볼 수 있을 만큼 충분히 중요했습니다. 학자가 하늘에 있는 이런 패턴에 적응하고 표시를 하는 것도 신중한 일일 것입니다.
 
-astralsorcery.journal.HAND_TELESCOPE.4.text=The Looking Glass, despite being a rather rudimentary device, goes a long way towards the process of investigating the night sky.<NL>In order to locate and trace Constellations, a clear view of the night sky is absolutely necessary. Also, a proper Constellation must have been discovered from the Constellation Papers. <NL>Once a possible pattern is found, the view angle of the telescope can be fixed by holding Shift. The pattern of stars can then be traced by using left-click to carefully draw lines between the stars.
+astralsorcery.journal.HAND_TELESCOPE.4.text=거울은 다소 기본적인 장치이지만 밤하늘을 조사하는 과정으로 갈 길이 멉니다.<NL>별자리를 찾아 추적하려면 밤하늘의 맑은 경치가 절대적으로 필요합니다. 또한 별자리 종이에서 적절한 별자리가 발견되었어야 합니다.<NL>가능한 패턴이 발견되면 Shift키를 눌러 망원경의 시야각을 조정할 수 있습니다. 그런 다음 좌클릭하여 별 사이의 선을 주의 깊게 그으면 별의 패턴을 추적할 수 있습니다.
 
-research.GRINDSTONE.name=Grindstone
-astralsorcery.journal.GRINDSTONE.1.text=A crafting table is useful and all, but to properly manipulate certain materials a more specialized tool is required. A Grindstone with a marble grinding wheel does exactly that. It allows for fine adjustments to the cut and polish of different types of crystals, as well as giving the ability to grind certain types of materials into dust.<NL>A material or object can be placed onto it and then ground by right-clicking. Right-clicking with Shift will remove the item if you have an empty hand to take the item.
-astralsorcery.journal.GRINDSTONE.3.text=Handling Rock Crystals properly when trying to properly shape them and polish them is a bit of a tedious process. Frequent inspection when doing so is recommended, as inattentive grinding can reduce a crystal to nothing. Mechanical hands are incapable of operating this device due to the precision needed in crystal shaping.<NL>Perhaps things besides crystals can be sharpened in the Grindstone, as well.
+research.GRINDSTONE.name=숫돌
+astralsorcery.journal.GRINDSTONE.1.text=조합대는 유용하고 모든 것이 가능하지만, 특정 재료를 적절하게 조작하려면 좀 더 전문적인 도구가 필요합니다. 대리석 갈은 바퀴를 가진 숫돌은 정확히 그렇게 합니다. 그것은 다른 종류의 수정의 절단과 광택을 미세하게 조정할 수 있고, 특정 종류의 물질을 먼지로 갈 수 있는 능력을 제공합니다.<NL>재료나 객체를 우클릭하여 그 위에 놓고 접을 수 있습니다. Shift키를 누른 상태에서 우클릭하면 해당 아이템을 선택할 수 있는 빈 손이 있는 경우 아이템이 제거됩니다.
+astralsorcery.journal.GRINDSTONE.3.text=수정의 모양을 적절하게 만들고 광택을 내려고 할 때 그것들을 적절하게 다루는 것은 다소 지루한 과정입니다. 부주의한 연삭을 사용하면 수정을 0으로 줄일 수 있으므로 자주 검사하는 것이 좋습니다. 기계적 손은 결정 형상에 필요한 정밀도로 인해 이 장치를 작동할 수 없습니다.<NL>아마도 수정 이외에 다른 것들은 숫돌에서도 날카롭게 될 수 있을 것입니다.
 
-research.TOOLS.name=Crystal Tools
+research.TOOLS.name=수정 도구
 astralsorcery.journal.TOOLS.1.text=After some careful testing, it becomes apparent that pure Rock Crystals are nowhere near as fragile as they appear, but only if properly handled and prepared. Tools crafted with them have much more durability than normal tools. Specifically, they don't seem to break from normal use. Crystal tools have the collective attributes of the crystals used to craft them, and their properties such as damage and mining speed are determined by how well shaped the crystals are.
 astralsorcery.journal.TOOLS.2.text=Unfortunately, Crystal Tools are not perfect. Despite their apparent unbreakability they become dull or deform after constant use, causing them to deal less damage, mine blocks slower, etc. It is possible to sharpen and reshape them on a Grindstone to regain their lost attributes, but when ground they lose size similarly to individual Rock Crystals. To compensate for the lost mass, it is likely that Crystal Tools behave similar to Rock Crystals, with size being increased by submerging it in Liquid Starlight and letting it sit.
 astralsorcery.journal.TOOLS.3.text=However, such artificial growth of Crystal Tools results in uncontrolled and deformed crystal growth, and sharpening of tools will again be necessary. It is not possible to increase the stats of a crystal tool above the baseline set when newly crafted, no matter how much it is ground or submerged in Liquid Starlight.
 
-research.ROCK_CRYSTALS.name=Rock Crystal Properties
+research.ROCK_CRYSTALS.name=수정 소개
 astralsorcery.journal.ROCK_CRYSTALS.1.text=Almost every newly mined Rock Crystal is unique. They vary in their size, crystal purity, and shape of their facets. There seems to be no way to determine what those will be during the mining process.<NL>While increasing the purity of Rock Crystals does not seem to be possible at the moment, grinding off small bits and shaping them with a Grindstone to seems easy enough.
 
-research.CRYSTAL_GROWTH.name=Crystal Growth
+research.CRYSTAL_GROWTH.name=수정의 성장
 astralsorcery.journal.CRYSTAL_GROWTH.1.text=Upon immersing single Rock Crystals into this strange, cold, and ethereal liquid, some of it clings onto the crystal.<NL>Upon closer inspection, it almost seems like the Liquid Starlight solidified on the surface though it quickly starts melting off again when removed, undoing the temporarily added mass. Leaving it in the liquid long enough might permanently increase its size? If a crystal were to be made larger, perhaps multiple of some items could be crafted from one crystal.
 astralsorcery.journal.CRYSTAL_GROWTH.2.text=Crystals seems to have a maximum size they will grow to. You do wonder what would happen if a fully-grown crystal was continuously submerged in Liquid Starlight, and what it would mean for its purity.
 
